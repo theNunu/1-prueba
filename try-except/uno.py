@@ -25,6 +25,12 @@ try:
     
 except TypeError as error:
     print("error con el valor de una variable: ", error)
+    print("Tipo de error:", type(error).__name__)
     
-    
+"""
+❯ python try-except/uno.py                                                                                                     
+error con el valor de una variable:  unsupported operand type(s) for +: 'int' and 'str'  
+Tipo de error: TypeError
+
+"""
 
