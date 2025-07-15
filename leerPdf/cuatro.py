@@ -1,5 +1,5 @@
 import fitz  # PyMuPDF #pip install PyMuPDF
-import os
+import os           # ------------ ESTA ES LA PEOR       -------------
 
 def read_pdf(file_path):
     """

@@ -1,5 +1,5 @@
 from PyPDF2 import PdfReader
-import os   #*********************     EL MEJOR HASTA AHORA     ********************************
+import os   #*********************     EL MEJOR HASTA AHORA (pdfplumber)    ********************************
 import pdfplumber
 
 def read_pdf(file_path):

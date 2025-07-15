@@ -1,0 +1,8 @@
+PyPDF2
+fitz
+pdf2image
+pytesseract
+PyMuPDF
+pdfplumber
+pillow
+tqdm
