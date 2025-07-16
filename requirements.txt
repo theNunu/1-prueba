@@ -6,3 +6,4 @@ PyMuPDF
 pdfplumber
 pillow
 tqdm
+matplotlib
