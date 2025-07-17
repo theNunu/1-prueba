@@ -12,7 +12,7 @@ print(""" creeacion de un historograma
       """)
 
 # Crear datos de ejemplo (distribución normal)
-datos_normal = np.random.normal(0, 1, 1000)
+datos_normal = np.random.normal(0, 1, 1000)  #cambiar el 1000
 
 # Crear un histograma para la distribución normal
 #El histograma muestra la distribución de los valores en 30 intervalos.
