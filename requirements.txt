@@ -1,2 +1,15 @@
+<<<<<<< HEAD
 tqdm
 pillow
+=======
+PyPDF2
+fitz
+pdf2image
+pytesseract
+PyMuPDF
+pdfplumber
+pillow
+tqdm
+matplotlib
+scikit-learn
+

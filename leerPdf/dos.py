@@ -1,6 +1,6 @@
 from PyPDF2 import PdfReader
 import os
-import pdfplumber
+
 
 def read_pdf(file_path):
     """
