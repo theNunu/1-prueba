@@ -8,3 +8,4 @@ pillow
 tqdm
 matplotlib
 scikit-learn
+# hashlib
