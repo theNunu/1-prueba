@@ -1,18 +1,27 @@
+<<<<<<< HEAD
+=======
 
+>>>>>>> 4d5b78d7d2129ce79b2d404337bf67c2079b4ad9
 from pdf2image import convert_from_path
 import pytesseract
 import os
 from tqdm import tqdm
 
+<<<<<<< HEAD
+=======
 
 os.environ["PATH"] += os.pathsep + r'C:\poppler\Library\bin'
 
+>>>>>>> 4d5b78d7d2129ce79b2d404337bf67c2079b4ad9
 # Configuración de Tesseract y Poppler (ajusta según tu sistema)
 # pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'  # Windows
 # os.environ["PATH"] += os.pathsep + r'C:\poppler-XX.XX.X\bin'  # Windows
 
 def read_pdf(file_path, output_folder="output_texts"):
+<<<<<<< HEAD
+=======
     
+>>>>>>> 4d5b78d7d2129ce79b2d404337bf67c2079b4ad9
     """
     Lee un archivo PDF y extrae su contenido usando OCR con pdf2image y pytesseract.
     Guarda el texto extraído en un archivo.
