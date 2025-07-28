@@ -1,7 +1,6 @@
 
 tqdm
 pillow
-=======
 PyPDF2
 fitz
 pdf2image
