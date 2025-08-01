@@ -11,5 +11,14 @@ pillow
 tqdm
 matplotlib
 scikit-learn
+requests 
+langchain 
+chromadb 
+sentence-transformers
+langchain-community
+langchain-huggingface
+langchain-chroma
 
 # hashlib
+#pip install requests langchain chromadb sentence-transformers
+
